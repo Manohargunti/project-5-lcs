@@ -1,3 +1,5 @@
+## Output:
+
 Enter first string: ABAB
 
 Enter second string: BABA
